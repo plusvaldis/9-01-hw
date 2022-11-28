@@ -6,10 +6,10 @@
 
 Приложите скриншот.`
 
-![Скриншот-1](https://github.com/plusvaldis/9-01-hw/main/img/img0.png)
-![Скриншот-2](https://github.com/plusvaldis/9-01-hw/main/img/img1.png)
-![Скриншот-3](https://github.com/plusvaldis/9-01-hw/main/img/img2.png)
-![Скриншот-4](https://github.com/plusvaldis/9-01-hw/main/img/img3.png)
+![Скриншот-1](https://github.com/plusvaldis/9-01-hw/blob/main/img/img0.png)
+![Скриншот-2](https://github.com/plusvaldis/9-01-hw/blob/main/img/img1.png)
+![Скриншот-3](https://github.com/plusvaldis/9-01-hw/blob/main/img/img2.png)
+![Скриншот-4](https://github.com/plusvaldis/9-01-hw/blob/main/img/img3.png)
 
 
 ---
@@ -20,4 +20,4 @@
 
 Приложите скриншот с уведомлением.`
 
-![Скриншот-1](https://github.com/plusvaldis/9-01-hw/main/img/img4.png)
+![Скриншот-1](https://github.com/plusvaldis/9-01-hw/blob/main/img/img4.png)
